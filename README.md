@@ -1,0 +1,2 @@
+# JumboBot
+Discord Admin Bot
